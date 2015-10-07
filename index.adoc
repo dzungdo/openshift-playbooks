@@ -16,8 +16,8 @@
 
 == Playbook Directory
 
-* link:/installation[OSE 3 Production-Ready Installation and Configuration]
-* link:/app_dev[OSE 3 Application Development]
+* link:/playbooks/installation/[OSE 3 Production-Ready Installation and Configuration]
+* link:/playbooks/app_dev[OSE 3 Application Development]
 * DevOps (Continuous Delivery) with Containers
 * DevOps (Continuous Delivery) with Traditional Application Platforms
 * OSE 3 RHCI Integration
